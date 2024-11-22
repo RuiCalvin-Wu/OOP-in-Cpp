@@ -3,6 +3,8 @@ Object Oriented Programming (OOP) is commonly used when writing code with C++. I
 
 This course was developed by Saldina Nurak (CodeBeauty). Check out her channel:    / codebeauty  
 
+#Link to course: https://www.youtube.com/watch?v=wN0x9eZLix4
+
 ⭐️ Course Contents ⭐️
 ⌨️ (0:00:00) Introduction
 ⌨️ (0:00:54) Introduction to OOP
